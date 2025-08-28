@@ -1,1 +1,1 @@
-# Sistema-web-de-consulta-acad-mica
+# Sistema-web-de-consulta-académica
